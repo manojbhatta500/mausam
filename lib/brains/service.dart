@@ -13,7 +13,7 @@ class Service {
   late String wind_speed;
   late String icon;
 
-  final String apikey = 'e6a320fbd485a30f8eea4b17a028d3fc';
+  final String apikey = 'your api key';
   String cityname;
 
   Service({required this.cityname});
